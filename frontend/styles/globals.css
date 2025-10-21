@@ -1,0 +1,31 @@
+/* frontend/styles/globals.css */
+/* Reset + font + style dasar global */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #ffffff;
+  color: #1f2937; /* Tailwind gray-800 */
+  font-size: 14px;
+}
+
+input, button {
+  font-family: inherit;
+  font-size: inherit;
+  outline: none;
+}
+
+button {
+  cursor: pointer;
+  border: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}

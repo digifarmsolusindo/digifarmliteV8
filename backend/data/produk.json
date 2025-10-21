@@ -1,0 +1,127 @@
+[
+  {
+    "id": "junior-30",
+    "kategori": "peternak junior",
+    "durasi": "30 hari",
+    "pokok_investasi": 243920,
+    "return_lama": 252776,
+    "return_baru": 260359,
+    "promo": true,
+    "setara": "2 ekor ayam petelur & paket pakan 1 bulan",
+    "catatan": "termasuk biaya layanan dan asuransi kematian"
+  },
+  {
+    "id": "junior-90",
+    "kategori": "peternak junior",
+    "durasi": "90 hari",
+    "pokok_investasi": 391760,
+    "return_lama": 418328,
+    "return_baru": 451794,
+    "promo": true,
+    "setara": "2 ekor ayam petelur & paket pakan 3 bulan",
+    "catatan": "termasuk biaya layanan dan asuransi kematian"
+  },
+  {
+    "id": "junior-180",
+    "kategori": "peternak junior",
+    "durasi": "180 hari",
+    "pokok_investasi": 613520,
+    "return_lama": 666656,
+    "return_baru": 733322,
+    "promo": true,
+    "setara": "2 ekor ayam petelur & paket pakan 6 bulan",
+    "catatan": "termasuk biaya layanan dan asuransi kematian"
+  },
+  {
+    "id": "muda-90",
+    "kategori": "peternak muda",
+    "durasi": "90 hari",
+    "pokok_investasi": 1767000,
+    "return_lama": 1882840,
+    "return_baru": 1899840,
+    "promo": true,
+    "setara": "10 ekor ayam petelur & paket pakan 3 bulan",
+    "catatan": "termasuk biaya layanan dan asuransi kematian"
+  },
+  {
+    "id": "muda-180",
+    "kategori": "peternak muda",
+    "durasi": "180 hari",
+    "pokok_investasi": 2667000,
+    "return_lama": 2915680,
+    "return_baru": 2941180,
+    "promo": true,
+    "setara": "10 ekor ayam petelur & paket pakan 6 bulan",
+    "catatan": "termasuk biaya layanan dan asuransi kematian"
+  },
+  {
+    "id": "muda-365",
+    "kategori": "peternak muda",
+    "durasi": "365 hari",
+    "pokok_investasi": 4517000,
+    "return_baru": 5038740,
+    "promo": false,
+    "setara": "10 ekor ayam petelur & paket pakan 12 bulan",
+    "catatan": "termasuk biaya layanan dan asuransi kematian"
+  },
+  {
+    "id": "senior-90",
+    "kategori": "peternak senior",
+    "durasi": "90 hari",
+    "pokok_investasi": 8835000,
+    "return_baru": 9414200,
+    "promo": false,
+    "setara": "50 ekor ayam petelur & paket pakan 3 bulan",
+    "catatan": "termasuk biaya layanan dan asuransi kematian"
+  },
+  {
+    "id": "senior-180",
+    "kategori": "peternak senior",
+    "durasi": "180 hari",
+    "pokok_investasi": 13335000,
+    "return_baru": 14578400,
+    "promo": false,
+    "setara": "50 ekor ayam petelur & paket pakan 6 bulan",
+    "catatan": "termasuk biaya layanan dan asuransi kematian"
+  },
+  {
+    "id": "senior-365",
+    "kategori": "peternak senior",
+    "durasi": "365 hari",
+    "pokok_investasi": 22585000,
+    "return_baru": 25193700,
+    "promo": false,
+    "setara": "50 ekor ayam petelur & paket pakan 12 bulan",
+    "catatan": "termasuk biaya layanan dan asuransi kematian"
+  },
+  {
+    "id": "juragan-90",
+    "kategori": "juragan ternak",
+    "durasi": "90 hari",
+    "pokok_investasi": 17670000,
+    "return_baru": 18828400,
+    "promo": false,
+    "setara": "100 ekor ayam petelur & paket pakan 3 bulan",
+    "catatan": "termasuk biaya layanan dan asuransi kematian"
+  },
+  {
+    "id": "juragan-180",
+    "kategori": "juragan ternak",
+    "durasi": "180 hari",
+    "pokok_investasi": 26670000,
+    "return_baru": 29156800,
+    "promo": false,
+    "setara": "100 ekor ayam petelur & paket pakan 6 bulan",
+    "catatan": "termasuk biaya layanan dan asuransi kematian"
+  },
+  {
+    "id": "juragan-365",
+    "kategori": "juragan ternak",
+    "durasi": "365 hari",
+    "pokok_investasi": 45170000,
+    "return_baru": 50387400,
+    "promo": false,
+    "setara": "100 ekor ayam petelur & paket pakan 12 bulan",
+    "catatan": "termasuk biaya layanan dan asuransi kematian"
+  }
+]

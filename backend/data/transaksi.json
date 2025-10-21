@@ -1,0 +1,18 @@
+[
+  {
+    "id": "trx-001",
+    "user_id": "user-1",
+    "produk_id": "junior-90",
+    "jumlah": 1,
+    "status": "menunggu konfirmasi",
+    "waktu_transaksi": "2025-10-21T10:00:00Z"
+  },
+  {
+    "id": "trx-002",
+    "user_id": "user-1",
+    "produk_id": "muda-180",
+    "jumlah": 1,
+    "status": "investasi aktif",
+    "waktu_transaksi": "2025-10-18T09:30:00Z"
+  }
+]

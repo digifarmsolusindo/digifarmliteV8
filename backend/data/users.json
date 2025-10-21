@@ -1,0 +1,16 @@
+[
+  {
+    "id": "user-1",
+    "email": "user@mail.com",
+    "password": "user123", 
+    "nama": "peternak user",
+    "role": "user"
+  },
+  {
+    "id": "admin-1",
+    "email": "shoplazia@gmail.com",
+    "password": "admin1234",
+    "nama": "admin digifarm",
+    "role": "admin"
+  }
+]
